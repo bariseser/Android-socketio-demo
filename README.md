@@ -3,7 +3,7 @@
 This is a full featured socket.io v1.0 and android chat.
 
 # Screens
-![Screenshot] (https://raw.githubusercontent.com/bariseser/socket.io-android-namespace-demo/master/images/screenshot.png)
+![Screenshot](https://github.com/bariseser/socket.io-android-namespace-demo/raw/master/images/screenshot.png)
 
 # License
 MIT
