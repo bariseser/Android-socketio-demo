@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SocketIO Demo</string>
+    <string name="nickname">Nickname</string>
+    <string name="join">Join to Chat</string>
+    <string name="activeUser">Active User: </string>
+    <string name="save">Save</string>
+    <string name="myProfile">My Profile</string>
+    <string name="nicknameErrorMessage">The nickname field cannot be left blank</string>
+    <string name="formValidationError">Something Went Wrong</string>
+    <string name="positiveButtonText">OK</string>
+    <string name="actionSend">Go</string>
+    <string name="selectChannel">Select Channel</string>
+    <string name="connectionError">Failed to connect</string>
+    <string name="yourMessage">Your Message</string>
+    <string name="send">Send</string>
+</resources>

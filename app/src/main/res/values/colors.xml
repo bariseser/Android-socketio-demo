@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#43a047</color>
+    <color name="colorPrimaryDark">#00701a</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="progress_background_container">#73000000</color>
+    <color name="progress_background_bg">#ffffff</color>
+    <color name="recycler_bg">#ffffff</color>
+</resources>
