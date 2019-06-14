@@ -2,6 +2,9 @@
 
 This is a full featured socket.io v1.0 and android chat.
 
+### Socket.io server demo
+if you need to server example, [check this](https://github.com/bariseser/socketio-namespace-server)
+
 ### Screens
 ![Screenshot](https://github.com/bariseser/socket.io-android-namespace-demo/raw/master/images/screenshot.png)
 
